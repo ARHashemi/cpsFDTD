@@ -11,4 +11,4 @@ arhFDTD
 ##Requirements
 - OpenMP
 - OpenCV
-- [CImg][https://github.com/dtschump/CImg]
+- [CImg](https://github.com/dtschump/CImg)
