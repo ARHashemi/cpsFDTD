@@ -1,0 +1,3 @@
+550e-9	Wavelength
+9e-15	FWHM
+7e-15	Delay

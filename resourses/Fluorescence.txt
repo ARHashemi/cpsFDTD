@@ -1,0 +1,16 @@
+single	distribution
+50	num of sourcses
+100	200	vertical limits (grid point)
+100	200	horizontal limits (grid point)
+493.0E-9	573.0E-9    540.0E-9	586.0E-9	473.0E-9	excitation wavelength (m)
+50.0E-9	excitation width (m)
+520.0E-9	605.0E-9	625.0E-9	515.0E-9	emission wavelength (m)
+50.0E-9	emission width (m)
+0.2	0.002432604800995	0.2	2.0E-4	1.0	emission Amplitude (N/C)
+0.0	3.0E+14	nonradiation loss gamma_a (1/s)
+3.0E-15	total decay time constant tau_20 (s)
+3.0E-8	nonradiative decay time constant tau_20 (s)
+1.0E-14	nonradiative decay time constant tau_21 (s)
+4.1E-9	radiative decay time constant tau_10 (s)
+77.8E-9	nonradiative decay time constant tau_10 (s)
+5.0E20	molecule density N_d (1/m3)

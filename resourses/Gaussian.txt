@@ -1,0 +1,7 @@
+473.0E-9	Wavelength
+250	Beam Waist
+10	Waist Distance from Source Plain
+150	250
+25	25
+25	25
+x	x
