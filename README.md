@@ -1,14 +1,14 @@
 arhFDTD
 =======
 
-##C++ package for cumputational electrodynamics based on FDTD method
+## C++ package for cumputational electrodynamics based on FDTD method
 
 |               :memo:  Take note of this                             |
 |:--------------------------------------------------------------------|
 | Documentation and usable examples will be added as soon as possible |
 
 
-##Requirements
+## Requirements
 - OpenMP
 - OpenCV
 - [CImg](https://github.com/dtschump/CImg)
