@@ -6,3 +6,9 @@ arhFDTD
 |               :memo:  Take note of this                             |
 |:--------------------------------------------------------------------|
 | Documentation and usable examples will be added as soon as possible |
+
+
+##Requirements
+- OpenMP
+- OpenCV
+- [CImg][https://github.com/dtschump/CImg]
