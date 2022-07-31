@@ -12,3 +12,7 @@ arhFDTD
 - OpenMP
 - OpenCV
 - [CImg](https://github.com/dtschump/CImg)
+
+## Build
+`make depend` (require *makedepend*)
+`make`
