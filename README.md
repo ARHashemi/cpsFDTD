@@ -14,5 +14,8 @@ arhFDTD
 - [CImg](https://github.com/dtschump/CImg)
 
 ## Build
-`make depend` (require *makedepend*)
-`make`
+(require *makedepend*)
+```
+make depend
+make
+```
