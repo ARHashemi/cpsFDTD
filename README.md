@@ -27,3 +27,6 @@ PhysRevE.101.013308.](https://link.aps.org/doi/10.1103/PhysRevE.101.013308)
 - [A. R. Hashemi, M. Hosseini-Farzad, and Afshin Montakhab. 'Emergence of semi-localized Anderson modes in a disordered
 photonic crystal as a result of overlap probability'. In: **The European Physical Journal B** 77.1 (Sept. 2010), pp. 147–152.
 DOI: 10.1140/epjb/e2010-00250-y.](https://link.springer.com/article/10.1140/epjb/e2010-00250-y)
+<p align="center">
+<img src="docs/img/jcover.png" alt="EPJB Cover" width="200"/>
+</p>
