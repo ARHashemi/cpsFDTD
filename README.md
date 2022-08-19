@@ -62,3 +62,9 @@ DOI: [10.48550/ARXIV.1811.10465](https://arxiv.org/abs/1811.10465).
 Simulation of photonic Anderson localization using cpsFDTD,
 featured on the cover of EPJB
 </p>
+
+## License
+
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
+cpsFDTD is licensed under the GNU Affero General Public License v3.0 .
